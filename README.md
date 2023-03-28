@@ -1,2 +1,2 @@
-# cpp-mython
-Финальный проект: интерпретатор языка Mython
+# Mython
+Interpreter of the simplified version of the Python language
